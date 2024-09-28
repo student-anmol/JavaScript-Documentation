@@ -1,0 +1,80 @@
+#js img{
+    width: 265px;
+    height: 2398px;
+    gap: 0px;
+    border: 1px 1px 1px 1px;
+    opacity: 0px;
+
+}
+*{
+    margin: 1px;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+    
+}
+.contain h1{
+    text-align: left;
+    margin-top: -2358px;
+    margin-left: 310px;
+   
+}
+.contain  h3{
+    text-align: left;
+    margin-left: 310px;
+}
+.contain ul li{
+    margin-left: 340px;
+}
+.data h1{
+    text-align: left;
+    margin-top: 85px;
+    margin-left: 310px;
+}
+.data h4{
+    
+    text-align: left;
+    margin-left: 358px;
+}
+.data ul li{
+    margin-left: 380px;
+}
+.info h1{
+    text-align: left;
+   
+    margin-left: 320px;
+    margin-top: 55px;
+}
+.info p{
+    margin-left: 330px;
+}
+.phone h1{
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 310px;
+}
+.phone p{
+    margin-left: 330px;
+}
+#div2, #div4 { 
+    padding: 50px;
+    position: absolute;
+    border: 1px solid black;
+    background: rgba(100,100,100,0.5); 
+    transform-style: preserve-3d;
+    transform: rotateX(45deg);
+    margin-left: 330px;
+    
+}
+.photo p{
+    margin-top: 195px;
+    margin-left: 325px;
+}
+.go h1{
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.go p{
+    margin-left: 300px;
+}
